@@ -1,0 +1,1 @@
+Microsoft Excel Object描述、定义、说明，以及编程范例，对VBA、VBScript、Jscript、Visual Basic，C/C++、C#，Delphi等OLE编程调用Excel操作有非常好的帮助作用。win7以上下载了打开不显示记得点击文件属性，解除锁定即可，好用记得好评！
